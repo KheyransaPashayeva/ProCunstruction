@@ -1,0 +1,163 @@
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('font/7cHmv4okm5zmbtYnK-4E4Q.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* @font-face {
+    font-family: 'klavika';
+    src: url('../fonts/klavikalight-plain.html') format('woff2'),
+         url('../fonts/klavikalight-plain.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'klavika';
+    src: url('../fonts/klavikaboldbold.html') format('woff2'),
+         url('../fonts/klavikaboldbold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lotregular';
+    src: url('../fonts/lot.html') format('woff2'),
+         url('../fonts/lot.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoonc275.eot?q6dh59');
+  src:  url('../fonts/icomoonc275.eot?q6dh59#iefix') format('embedded-opentype'),
+    url('../fonts/icomoonc275.html?q6dh59') format('truetype'),
+    url('../fonts/icomoonc275.woff?q6dh59') format('woff'),
+    url('../fonts/icomoonc275.svg?q6dh59#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  /*line-height: 1;*/
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-envelope:before {
+  content: "\e91f";
+}
+.icon-phone:before {
+  content: "\e920";
+}
+.icon-construction:before {
+  content: "\e900";
+}
+.icon-drawing:before {
+  content: "\e901";
+}
+.icon-drill:before {
+  content: "\e902";
+}
+.icon-facebook-logo:before {
+  content: "\e903";
+}
+.icon-google-plus:before {
+  content: "\e904";
+}
+.icon-innovation:before {
+  content: "\e905";
+}
+.icon-light-bulb:before {
+  content: "\e906";
+}
+.icon-link:before {
+  content: "\e907";
+}
+.icon-logo-linkedin:before {
+  content: "\e908";
+}
+.icon-magnifying-glass:before {
+  content: "\e909";
+}
+.icon-money:before {
+  content: "\e90a";
+}
+.icon-mouse:before {
+  content: "\e90b";
+}
+.icon-paint:before {
+  content: "\e90c";
+}
+.icon-placeholder:before {
+  content: "\e90d";
+}
+.icon-printer:before {
+  content: "\e90e";
+}
+.icon-right-arrow:before {
+  content: "\e90f";
+}
+.icon-roller:before {
+  content: "\e910";
+}
+.icon-ruler:before {
+  content: "\e911";
+}
+.icon-saw:before {
+  content: "\e912";
+}
+.icon-search:before {
+  content: "\e913";
+}
+.icon-shopping-bag:before {
+  content: "\e914";
+}
+.icon-skyline:before {
+  content: "\e915";
+}
+.icon-smiley:before {
+  content: "\e916";
+}
+.icon-technology:before {
+  content: "\e917";
+}
+.icon-tool:before {
+  content: "\e918";
+}
+.icon-twitter:before {
+  content: "\e919";
+}
+.icon-youtube-logo:before {
+  content: "\e91a";
+}
+.icon-bolt:before {
+  content: "\e91b";
+}
+.icon-chat-comment-oval-speech-bubble-with-text-lines:before {
+  content: "\e91c";
+}
+.icon-check-form:before {
+  content: "\e91d";
+}
+.icon-location:before {
+  content: "\e91e";
+}
+
+/*!
+ *  Font Awesome 4.5.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+ /*  */
